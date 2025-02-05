@@ -1,0 +1,8 @@
+Tried Downloading Glass Menu And Downloaded This Instead?
+
+This Means That Glass Menu Is Unable Too Install Right Now.
+
+Reasons:
+	1. Glass Menu Isn't Finished
+	2. Download Link Is Broken
+Please Check Check The "status" Channel In The Discord Server Before Reporting This. If The Circle Is Red That Means The Menu Is Unfinished And Won't Download.
